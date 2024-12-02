@@ -1,0 +1,14 @@
+C:\Users\info\C#\VSC\firstgame\bin\Debug\net8.0\firstgame.exe
+C:\Users\info\C#\VSC\firstgame\bin\Debug\net8.0\firstgame.deps.json
+C:\Users\info\C#\VSC\firstgame\bin\Debug\net8.0\firstgame.runtimeconfig.json
+C:\Users\info\C#\VSC\firstgame\bin\Debug\net8.0\firstgame.dll
+C:\Users\info\C#\VSC\firstgame\bin\Debug\net8.0\firstgame.pdb
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.AssemblyInfoInputs.cache
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.AssemblyInfo.cs
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.csproj.CoreCompileInputs.cache
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.dll
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\refint\firstgame.dll
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.pdb
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.genruntimeconfig.cache
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\ref\firstgame.dll
