@@ -12,3 +12,4 @@ C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\refint\firstgame.dll
 C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.pdb
 C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.genruntimeconfig.cache
 C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\ref\firstgame.dll
+C:\Users\info\C#\VSC\firstgame\obj\Debug\net8.0\firstgame.sourcelink.json
